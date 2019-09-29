@@ -1,2 +1,2 @@
 # EFExtensions
-EFExtensions is developed to add some required missing features Entity Framework, like BulkInsertion, Merge etc
+EFExtensions is developed to add  required missing features in Entity Framework, like BulkInsertion, Merge etc
